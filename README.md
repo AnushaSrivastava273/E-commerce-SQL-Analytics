@@ -34,7 +34,7 @@ The dataset represents a fictional e-commerce company. It includes multiple tabl
 
 ## ⚙️ Tools & Skills
 - **SQL (MySQL)** – querying, joins, CTEs, window functions, aggregate analysis  
-- **PowerPoint / Excel** – visualization of insights and executive reporting  
+- **PowerPoint ** – visualization of insights and executive reporting  
 - **Data Storytelling** – translating raw queries into growth insights  
 
 ---
